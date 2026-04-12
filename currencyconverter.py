@@ -1,4 +1,4 @@
-import requests
+import requests;
 
 base_url= 'https://api.fxratesapi.com/latest'
 currency = input('Enter currency code: ').upper()
